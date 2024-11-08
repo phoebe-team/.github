@@ -11,7 +11,7 @@ Phoebe is an open-source code for the ab-initio computation of electron and phon
 It is designed to take advantage of HPC systems via MPI-OpenMP hybrid parallelism, memory-distributed computing via ScaLAPACK, and GPU accelerated calculation of scattering rates.
 
 Tutorials, documentation of functionality and underlying theory can be found at:
-  * [Homepage](https://mir-group.github.io/phoebe/)
+  * [Homepage](https://phoebe-team.github.io/phoebe/)
   * [Tutorials/Documentation](https://phoebe.readthedocs.io/en/develop/introduction.html)
 
 For further questions and feature requests, please post on the discussions page for the git repo.
