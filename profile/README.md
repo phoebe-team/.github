@@ -23,25 +23,3 @@ If you feel you've found a bug or seen some unexpected behavior, please let us k
 <div class="inline-block">
 <img src="https://github.com/phoebe-team/phoebe/blob/gh-pages/pictures/logos/logo-banner.png" height="70"/>
 </div>
-
--------------------------
-### Current functionalities
-#### Electronic Transport
-
-   * Electron-phonon and phonon-electron scattering rates by Wannier interpolation
-   * Electron-phonon scattering within the electron-phonon averaged (EPA) approximation
-   * Electronic transport coefficients (mobility, conductivity, thermal conductivity, and Seebeck coefficient)
-
-#### Phonon Transport
-
-   * Phonon (lattice) thermal conductivity, including: 
-     * 3-phonon scattering from thirdOrder.py/ShengBTE or Phono3py force constants
-     * Boundary, isotope, and phonon-electron scattering contributions
-     * Lattice thermal conductivity calculations including both ph-ph and ph-el scattering 
-
-#### And more...
-
-   * BTE solutions by RTA, iterative, variational, and relaxon solvers
-   * Calculation of electron and phonon linewidths or relaxation times on a path
-   * Wigner transport equation correction for electrons and phonons 
-   * Hydrodynamic transport properties (viscosity) for electrons and phonons
