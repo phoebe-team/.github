@@ -21,5 +21,5 @@ If you feel you've found a bug or seen some unexpected behavior, please let us k
 ### Partially supported by:
 
 <div class="inline-block">
-<img src="https://github.com/phoebe-team/phoebe/blob/gh-pages/pictures/logos/logo-banner.png" height="70"/>
+<img src="https://github.com/phoebe-team/phoebe/blob/gh-pages/pictures/logos/logo-banner.png" style="width:70%; height:auto;"/>
 </div>
