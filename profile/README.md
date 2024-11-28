@@ -1,10 +1,3 @@
-### This organization contains the current developers of the Phoebe project. 
-
-Phoebe is maintained by [Jenny Coulter](https://www.simonsfoundation.org/people/jennifer-coulter/), currently at the Flatiron Institute (CCQ), in collaboration with the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard University and the [Simoncelli group](https://www.apam.columbia.edu/michele-simoncelli) at the University of Cambridge (soon moving to Columbia University).
-
-If you are interested in contributing to the development, please reach out to us by opening a discussion on the Phoebe repository or writing by email to discuss before beginning. 
-
--------------------------
 ### About Phoebe 
 Phoebe is an open-source code for the ab-initio computation of electron and phonon transport properties of crystalline materials.
 
@@ -16,6 +9,14 @@ Tutorials, documentation of functionality and underlying theory can be found at:
 
 For further questions and feature requests, please post on the discussions page for the git repo.
 If you feel you've found a bug or seen some unexpected behavior, please let us know by opening a git issue. 
+
+-------------------------
+
+### This organization contains the current developers of the Phoebe project. 
+
+Phoebe is maintained by [Jenny Coulter](https://www.simonsfoundation.org/people/jennifer-coulter/), currently at the Flatiron Institute (CCQ), in collaboration with the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard University and the [Simoncelli group](https://www.apam.columbia.edu/michele-simoncelli) at the University of Cambridge (soon moving to Columbia University).
+
+If you are interested in contributing to the development, please reach out to us by opening a discussion on the Phoebe repository or writing by email to discuss before beginning. 
 
 -------------------------
 ### Partially supported by:
