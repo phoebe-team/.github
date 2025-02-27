@@ -14,7 +14,7 @@ If you feel you've found a bug or seen some unexpected behavior, please let us k
 
 ### This organization contains the current developers of the Phoebe project. 
 
-Phoebe is maintained by [Jenny Coulter](https://www.simonsfoundation.org/people/jennifer-coulter/), currently at the Flatiron Institute (CCQ), in collaboration with the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard University and the [Simoncelli group](https://www.apam.columbia.edu/michele-simoncelli) at the University of Cambridge (soon moving to Columbia University).
+Phoebe is maintained by [Jenny Coulter](https://www.simonsfoundation.org/people/jennifer-coulter/), currently at the Flatiron Institute (CCQ), in collaboration with the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard University and the [Simoncelli group](https://www.apam.columbia.edu/michele-simoncelli) at Columbia University.
 
 If you are interested in contributing to the development, please reach out to us by opening a discussion on the Phoebe repository or writing by email to discuss before beginning. 
 
